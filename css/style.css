@@ -302,5 +302,12 @@ h2 {
 	position: fixed;
 	top: 0;
 }
+.copyrightSection .links .link {
+	margin: 0 15px;
+	padding-bottom: 20px;
+}
+.copyright {
+	margin-top: 10px;
+}
 
 
