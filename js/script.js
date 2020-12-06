@@ -1,3 +1,5 @@
+/*-- Created By Ramanpreet Singh --*/
+
 $(document).ready(function() {
 
 	$('#slides').superslides({
